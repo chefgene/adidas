@@ -16,9 +16,30 @@ thanks to Kaggle for providing this dataset of Walmart and it was quite interest
 
 ## ANALYSIS
 
-# Tool used : Power BI
+## Tool used : Power BI
 
-# Dashboard
+## Dashboard
+
+![](https://github.com/chefgene/adidas/blob/main/ad10.PNG)
+![](https://github.com/chefgene/adidas/blob/main/ad11.PNG)
+
+
+## Dataset Overview
+I was provided with one dataset for this analysis. The dataset includes:
+
+name of countries, sex. age, number of suicide, GDP per capita, number of suicide/100k, population, and generation.
+
+## Data Preparation
+I imported the datasets into Power BI Power Query for the transformation and validation of the data.
+
+## Data Cleaning
+* Changed data types of columns with incorrect data types.
+* Removed unnecessary columns for easy analysis.
+^ Created another column for MMM-YYY to analyze the trends
+
+
+
+
 
 
 
