@@ -58,11 +58,12 @@ the state with the top sales was New York with sales of $64.2M followed by Calif
 
    the state with the highest number of sales by the unit was seen as New York with a sales unit of 0.169M followed by California.
   ![]( https://github.com/chefgene/adidas/blob/main/AD5.PNG)
-What is the prediction of our sales and profit in the next two quarters of 2022
+  
+## What is the prediction of our sales and profit in the next two quarters of 2022
 6. the prediction analysis with the trends we have shows that definitely with all things being equal with the way the trends have been going up, we will have a constant increase in sales and profits.
 
 
-                     RECOMMENDATION
+  ## Recommendation
 
 1. Adidas should continue to maintain relationships with the top retailers to maintain commitment and loyalty by offering incentives.
 
