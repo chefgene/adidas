@@ -37,18 +37,18 @@ I imported the datasets into Power BI Power Query for the transformation and val
 * Removed unnecessary columns for easy analysis.
 ^ Created another column for MMM-YYY to analyze the trends
 
-## What is the state with the highest profit and with the highest sales?
+## 1. What is the state with the highest profit and with the highest sales?
 the state with the top sales was New York with sales of $64.2M followed by California and Florida this same trend was 
  also observed with the profit, New York also tops the list with a profit of $23.3M followed by California and Florida. and this can be due to two reasons; the population of these states and the standard of living of those living in these states. Even though Florida came third in terms of sales but came second among the states with the highest profit with a total profit of $20.9M
 
 ![](https://github.com/chefgene/adidas/blob/main/AD1.PNG)
 
-## Which of the sales channel or methods is very effective among the sales channel we are using in the US market?
+## 2. Which of the sales channel or methods is very effective among the sales channel we are using in the US market?
  we saw online as the sales method taking 50% of the total sales method followed by an outlet with 31%.
 
  ![](https://github.com/chefgene/adidas/blob/main/AD2.PNG)
 
-  among the regions in the USA which of the region has the highest profit and sales?
+ ## 3. Among the regions in the USA which of the region has the highest profit and sales?
    among the 5 regions in the US we saw that more sales were made in the western region where we have California state taken the lead with a total sales of $269.9M  and this is the result of the biggest retailer in the west named west gear taking the lead among the retailers with a total sales of ,$242.9M with a profit of $85.6M followed by the northeast taken the second spot where we have New York state and the biggest retailer in this region with the highest sales and profit was foot locker invariably the second biggest retailer with a total sales and profit of $220M and $80.7M respectively.
 
    ![](https://github.com/chefgene/adidas/blob/main/AD3.PNG)
@@ -67,8 +67,6 @@ the state with the top sales was New York with sales of $64.2M followed by Calif
 
 1. Adidas should continue to maintain relationships with the top retailers to maintain commitment and loyalty by offering incentives.
 
-
-incentives
 2 the largest sales from an ONLINE as one of the sales methods with over 50% and  this should actually be encouraged the more beyond that we can still increase the sales of using in-store as other sales method by partnering with closer stores to the residentials
 
 
