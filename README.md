@@ -65,9 +65,9 @@ the state with the top sales was New York with sales of $64.2M followed by Calif
 
   ## Recommendation
 
-1. Adidas should continue to maintain relationships with the top retailers to maintain commitment and loyalty by offering incentives.
+## 1. Adidas should continue to maintain relationships with the top retailers to maintain commitment and loyalty by offering incentives.
 
-2 the largest sales from an ONLINE as one of the sales methods with over 50% and  this should actually be encouraged the more beyond that we can still increase the sales of using in-store as other sales method by partnering with closer stores to the residentials
+## 2 the largest sales from an ONLINE as one of the sales methods with over 50% and  this should actually be encouraged the more beyond that we can still increase the sales of using in-store as other sales method by partnering with closer stores to the residentials
 
 
 
