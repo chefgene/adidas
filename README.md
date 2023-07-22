@@ -49,18 +49,18 @@ the state with the top sales was New York with sales of $64.2M followed by Calif
  ![](https://github.com/chefgene/adidas/blob/main/AD2.PNG)
 
  ## 3. Among the regions in the USA which of the region has the highest profit and sales?
-   among the 5 regions in the US we saw that more sales were made in the western region where we have California state taken the lead with a total sales of $269.9M  and this is the result of the biggest retailer in the west named west gear taking the lead among the retailers with a total sales of ,$242.9M with a profit of $85.6M followed by the northeast taken the second spot where we have New York state and the biggest retailer in this region with the highest sales and profit was foot locker invariably the second biggest retailer with a total sales and profit of $220M and $80.7M respectively.
+   among the 5 regions in the US we saw that more sales were made in the western region where we have California state taken the lead with a total sales of $269.9M  and this is the result of the biggest retailer in the west named west gear taking the lead among the retailers with a total sales o ,$242.9M with a profit of $85.6M followed by the northeast taken the second spot where we have New York state and the biggest retailer in this region with the highest sales and profit was foot locker invariably the second biggest retailer with a total sales and profit of $220M and $80.7M respectively.
 
    ![](https://github.com/chefgene/adidas/blob/main/AD3.PNG)
 
-  ## what do you think is the factor responsible for the high sales in those states and regions we have the highest profit and sales?
-   it's worthy of note to see that there has been a constant increase both in the sales and profit from 2020 to 2021, we have low sales in June and December in 2020 Q1 and Q4  and this is due to the effect of COVID-19 the same trend was also observed in the profit trend. 
+  ## 4. what do you think is the factor responsible for the high sales in those states and regions we have the highest profit and sales?
+   it's worthy of note to see that there has been a constant increase both in the sales and profit from 2020 to 2021, we have low sales in June and December in 2020 Q1 
+   and Q4  and this is due to the effect of COVID-19 the same trend was also observed in the profit trend. 
 
    the state with the highest number of sales by the unit was seen as New York with a sales unit of 0.169M followed by California.
   ![]( https://github.com/chefgene/adidas/blob/main/AD5.PNG)
   
-## What is the prediction of our sales and profit in the next two quarters of 2022
-6. the prediction analysis with the trends we have shows that definitely with all things being equal with the way the trends have been going up, we will have a constant increase in sales and profits.
+  ## 5. What is the prediction of our sales and profit in the next two quarters of 2022 . the prediction analysis with the trends we have shows that definitely with all  things being equal with the way the trends have been going up, we will have a constant increase in sales and profits.
 
 
   ## Recommendation
